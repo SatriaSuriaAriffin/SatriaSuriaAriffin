@@ -9,7 +9,6 @@ I've been learning to code since 2019 and finally found my calling with Flutter 
 * 🌍  I'm based in Brunei
 * ✉️  You can contact me at [satria.suria@outlook.com](mailto:satria.suria@outlook.com)
 * 🚀  I'm currently working on [Deltice](http://deltice.com)
-* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on meaningful projects
 
 ### Skills
