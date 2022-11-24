@@ -6,7 +6,7 @@ Flutter Developer
 
 * 🌍  I'm based in Brunei
 * ✉️  You can contact me at [satria.suria@outlook.com](mailto:satria.suria@outlook.com)
-* 🚀  I'm currently working on [Deltice](http://deltice.com)
+* 🚀  I'm currently brushing up on JavaScript
 * 🤝  I'm open to collaborating on meaningful projects
 
 ### Skills
