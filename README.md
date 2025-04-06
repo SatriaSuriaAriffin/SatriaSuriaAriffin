@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satria Suria
 ====================================================================================================================================
 
-Flutter Developer
+Software Developer
 -----------------
 
 * 🌍  I'm based in Brunei
 * ✉️  You can contact me at [satria.suria@outlook.com](mailto:satria.suria@outlook.com)
-* 🚀  I'm currently working on [Deltice](http://deltice.com)
+* 🚀  I'm currently working on SafeScreen AI.
 * 🤝  I'm open to collaborating on meaningful projects
 
 ### Skills
