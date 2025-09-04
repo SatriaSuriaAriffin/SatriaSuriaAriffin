@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Brunei
 * ✉️  You can contact me at [satria.suria@outlook.com](mailto:satria.suria@outlook.com)
-* 🚀  I'm currently working on SafeScreen AI.
+* 🚀  I'm currently working on SevenGates.
 * 🤝  I'm open to collaborating on meaningful projects
 
 ### Skills
